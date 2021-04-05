@@ -1,6 +1,6 @@
 # Yohan Min
 
-1234 Main St., City, State 12345
+4747 30th Ave. NE Seattle
 
 (555) 555-5555
 
