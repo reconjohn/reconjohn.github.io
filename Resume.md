@@ -14,6 +14,7 @@ min25@uw.edu
 **Ph.C in the Built Environment, University of Washington (GPA 3.79/ 4)** (2017 - Expected 2022)
 
 •	Instructor, Digital Tools, CM 260, Winter 2021
+
 •	Teaching Assistant, Research Design, URBDP 512, Autumn 2020
 •	Teaching Assistant, Advanced GIS, URBDP 522, Winter 2020
 •	CEI Graduate Fellow 2019-2020, Clean Energy Institute (CEI)
