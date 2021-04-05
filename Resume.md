@@ -2,58 +2,43 @@
 
 4747 30th Ave. NE Seattle
 
-(555) 555-5555
-
 min25@uw.edu
 
-http://www.example.com
 
-http://www.linkedin.com/in/yourname
+# Education
 
-# Summary
+## University of Washington (Seattle, WA)
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+*[University of Washington](https://www.cei.washington.edu/people/yohan-min/)*
 
-# Work Experience (only last 10 years)
+**Ph.C in the Built Environment, University of Washington (GPA 3.79/ 4)** (2017 - Expected 2022)
 
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+•	Instructor, Digital Tools, CM 260, Winter 2021
+•	Teaching Assistant, Research Design, URBDP 512, Autumn 2020
+•	Teaching Assistant, Advanced GIS, URBDP 522, Winter 2020
+•	CEI Graduate Fellow 2019-2020, Clean Energy Institute (CEI)
+•	Graduate Trainee, Center for Studies in Demography and Ecology (CSDE)
+•	Data Science (DIRECT) Trainee 2018-2019, Clean Energy Institute (CEI)
+•	Field Research, Solar Installation for Disaster Response, Puerto Rico 2018
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+## Purdue University (West Lafayette, IN)
+
+**Master of Science in Eng., Purdue University (GPA 3.78/ 4)** (2012 - 2013)
+
+•	Field Research, Arctic Center, Technical University of Denmark, Greenland 2013
+•	MBA Internship, TVS Motors, India 2013
+
+
+## Ajou University (Korea)
+
+
+**Bachelor of Science in Mechanical Eng., Ajou University, Korea (GPA 3.8/ 4.5)** (2000 - 2008)
+
+•	Exchange, The Hong Kong Polytechnic University, Hong Kong
+•	Exchange, Nanjing University of Science & Technology, China
+•	Summer School, National Chung Hsing University, Taiwan
+
+
+
+[University of Washington]: https://www.cei.washington.edu/people/yohan-min/
