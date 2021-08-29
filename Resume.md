@@ -11,9 +11,9 @@ min25@uw.edu
 
 *[University of Washington](https://www.cei.washington.edu/people/yohan-min/)*
 
-**Ph.C in the Built Environment, University of Washington (GPA 3.79/ 4)** (2017 - Expected 2022)
+**Ph.C in the Built Environment, University of Washington (GPA 3.80/ 4)** (2017 - Expected 2022)
 
-•	Instructor, Digital Tools, CM 260, Winter 2021
+•	Instructor, Digital Tools, CM 260, Winter and Spring 2021
 
 •	Teaching Assistant, Research Design, URBDP 512, Autumn 2020
 
